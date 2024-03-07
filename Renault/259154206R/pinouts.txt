@@ -1,0 +1,24 @@
+1
+2 - CAN L
+3 - CAN H
+4
+5 - ENABLE
+6 - VCC?
+7 - GND
+8
+9
+10 - GND
+11 - GND
+12
+13
+14 - AUX INL+
+15 - AUX INR+
+16 - AUX INL-
+17 - GND
+18
+19
+20 - GND
+21
+22
+23
+24
